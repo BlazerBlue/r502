@@ -4,7 +4,7 @@
  Author:	David
 */
 
-// this was created like any other local project, with no links to repo
+//This is my first edit of ino file which is now in local repo
 
 void setup() {
 
